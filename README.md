@@ -1,1 +1,2 @@
 # Merge-et-conflits
+LOCAL
